@@ -4,7 +4,7 @@ I'm a self-taught Front-end Developer with a background in Civil Engineering. Gr
 
 ## 🔧 Skills
 
-- **Front-end Development:** I have a strong foundation in front-end technologies, including:
+- **Front-end Development:** I have a strong foundation in front-end technologies, including: <br>
   ![HTML](https://img.shields.io/badge/HTML-FF5733)
   ![CSS](https://img.shields.io/badge/CSS-2965F1)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
