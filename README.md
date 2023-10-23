@@ -34,7 +34,7 @@ I'm a self-taught Front-end Developer with a background in Civil Engineering. Gr
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/yusufakilevi) or check out my latest projects on [GitHub](https://github.com/YusufAkilevi).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yusufakilevi/) or check out my latest projects on [GitHub](https://github.com/YusufAkilevi?tab=repositories).
 
 
 
