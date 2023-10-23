@@ -23,15 +23,18 @@ I'm a self-taught Front-end Developer with a background in Civil Engineering. Gr
 ## 🌟 Interests
 
 - **Web Development:** I'm passionate about creating user-friendly and visually appealing web applications.
-- **Problem Solving:** I enjoy tackling complex problems and finding elegant solutions.
 - **Learning:** I have a strong desire to learn new technologies and incorporate them into my projects.
-- **Open Source:** I believe in the power of open source and actively contribute to and create open-source projects.
+- **Yoga:** I find peace and balance through yoga.
+- **Calisthenics:** I enjoy bodyweight exercises and fitness.
+- **Cooking:** Exploring new recipes and culinary experiences is one of my hobbies.
+- **Chess:** I love strategic and tactical challenges on the chessboard.
+
 
 ## 📫 Let's Connect
 
-Feel free to connect with me on [LinkedIn](#) or check out my latest projects on [GitHub](https://github.com/YourGitHubUsername).
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/yusufakilevi) or check out my latest projects on [GitHub](https://github.com/YusufAkilevi).
 
-Let's code, create, and learn together! 🚀
+
 
 
 <!--
