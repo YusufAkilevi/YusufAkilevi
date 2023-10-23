@@ -5,17 +5,19 @@ I'm a self-taught Front-end Developer with a background in Civil Engineering. Gr
 ## 🔧 Skills
 
 - **Front-end Development:** I have a strong foundation in front-end technologies, including:
-  ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-  ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-  ![React](https://img.shields.io/badge/React-Expert-green)
-  ![Redux](https://img.shields.io/badge/Redux-Expert-purple)
-  ![React Router](https://img.shields.io/badge/React%20Router-Expert-lightgrey)
-  ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-Expert-red)
-  ![Git](https://img.shields.io/badge/Git-Expert-brown)
-  ![React Query](https://img.shields.io/badge/React%20Query-Expert-blue)
-  ![Sass](https://img.shields.io/badge/Sass-Expert-pink)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-teal)
+  ![HTML](https://img.shields.io/badge/HTML-FF5733)
+  ![CSS](https://img.shields.io/badge/CSS-2965F1)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+  ![React](https://img.shields.io/badge/React-61DAFB)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC)
+  ![React Router](https://img.shields.io/badge/React%20Router-CA4245)
+  ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-72258E)
+  ![Git](https://img.shields.io/badge/Git-F05032)
+  ![React Query](https://img.shields.io/badge/React%20Query-00D2E0)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
+  ![Node.js](https://img.shields.io/badge/Node.js-8CC84B)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000)
 
 - **Problem Solving:** My engineering background has honed my problem-solving skills, which I apply to software development.
 - **Continuous Learning:** I'm enthusiastic about staying up-to-date with the latest technologies and constantly improving my skills.
